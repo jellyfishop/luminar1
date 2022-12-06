@@ -1,0 +1,20 @@
+img{
+    width: 100%;
+}
+.nav-link{
+    color: black;
+
+}
+.nav-link:hover{
+    color:  blueviolet;
+    text-decoration:underline blue;
+
+}
+#s1{
+    color: blueviolet;
+    text-decoration: underline blueviolet;
+}
+.active{
+    color: rgb(96, 35, 153);
+    text-decoration: underline violet;
+}
